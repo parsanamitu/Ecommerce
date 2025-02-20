@@ -70,4 +70,4 @@ const makeCommits = (n, startYear, endYear) => {
 };
 
 // Run the script to generate realistic backend commits
-makeCommits(200, 2021, 2021);
+makeCommits(300, 2018, 2019);
